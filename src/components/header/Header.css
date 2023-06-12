@@ -49,7 +49,7 @@ Use for Titles
 
   /* granite */
 
-  color: #252629;
+  color: var(--color-granite);
 
   /* Inside auto layout */
 

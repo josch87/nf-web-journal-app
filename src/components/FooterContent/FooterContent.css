@@ -1,0 +1,28 @@
+@import url(../../index.css);
+
+.footer__content {
+  /* FooterContent */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 18px 16px;
+  gap: 10px;
+
+  width: 368px;
+  height: 56px;
+
+  /* granite */
+
+  background: var(--color-granite);
+  color: var(--color-foam);
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
